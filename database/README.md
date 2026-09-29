@@ -1,0 +1,1 @@
+The SQLite database is created automatically as `resolvehub.db` inside the backend folder when the Flask application starts. Models include User and ServiceRequest with a one-to-many relationship.
